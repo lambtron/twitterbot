@@ -5,7 +5,7 @@ twitterbot
 
 ## Example
 
-```
+```javascript
 /**
  * Module dependencies.
  */
