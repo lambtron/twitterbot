@@ -12,7 +12,23 @@
     "node": "^0.11.14",
     "npm": "^2.1.x"
   },
-  "private": true,
+  "keywords": [
+    "twitter",
+    "bot",
+    "tweet",
+    "favorite",
+    "like",
+    "stream",
+    "filter",
+    "follow"
+  ],
+  "author": "Andy Jiang <andyjiang@gmail.com> (http://www.andyjiang.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lambtron/twitterbot/issues"
+  },
+  "homepage": "https://github.com/lambtron/twitterbot",
+  "private": false,
   "dependencies": {
     "co": "^4.4.0",
     "koa": "^0.13.0",
